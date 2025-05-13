@@ -27,6 +27,10 @@ Each table includes PRIMARY KEY constraints and relationships are enforced using
 
 ![orders](https://github.com/user-attachments/assets/858cda7e-4dd5-4320-b93b-29c830744680)
 
+**CREATING TABLE**
+![WhatsApp Image 2025-04-21 at 12 15 15_9b63bd99](https://github.com/user-attachments/assets/0ee8fd62-bad0-448d-b0b5-8d8f3479c654)
+
+
 
 
 
