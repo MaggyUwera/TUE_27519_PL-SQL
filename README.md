@@ -30,6 +30,32 @@ Each table includes PRIMARY KEY constraints and relationships are enforced using
 **CREATING TABLE**
 ![WhatsApp Image 2025-04-21 at 12 15 15_9b63bd99](https://github.com/user-attachments/assets/0ee8fd62-bad0-448d-b0b5-8d8f3479c654)
 
+**CREATING TRIGGERS**
+![WhatsApp Image 2025-05-06 at 17 33 46_08ee1d99](https://github.com/user-attachments/assets/3404c23a-8277-45fa-b5c2-f68ba5ba2696)
+
+**CREATING FUNCTIONS**
+![WhatsApp Image 2025-05-06 at 17 16 40_902725b4](https://github.com/user-attachments/assets/fcf47159-e353-47b7-9873-017a9747d71c)
+
+**CREATING PACKAGE**
+![WhatsApp Image 2025-05-12 at 21 26 35_0c5d80e3](https://github.com/user-attachments/assets/99560101-25c2-4ec4-8642-8864b7338296)
+
+
+
+**DML (Data Manupulation Language)**
+
+**INSERT**
+![WhatsApp Image 2025-04-22 at 22 18 02_d1b4c49a](https://github.com/user-attachments/assets/b188d9c2-402d-4121-878d-bf8c57fae948)
+
+**UPDATE**
+![WhatsApp Image 2025-05-01 at 12 44 58_21f8d584](https://github.com/user-attachments/assets/24eba6c8-1aaf-4bbc-bfa6-b86ca6f6dc7b)
+
+**DELETE**
+![WhatsApp Image 2025-05-01 at 16 15 19_37a2497a](https://github.com/user-attachments/assets/316e825c-1d5d-45a0-a287-b51bdb42bf80)
+
+
+
+
+
 
 
 
