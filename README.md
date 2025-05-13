@@ -20,7 +20,13 @@ Each table includes PRIMARY KEY constraints and relationships are enforced using
 ***conceptual diagram**
 ![customer model](https://github.com/user-attachments/assets/087ac293-8a83-465a-ae36-230229a5b015)
 
+
 ![menu item model](https://github.com/user-attachments/assets/2ac25126-73fd-434d-bc03-883c82ff0bfc)
+
+
+
+![orders](https://github.com/user-attachments/assets/858cda7e-4dd5-4320-b93b-29c830744680)
+
 
 
 
