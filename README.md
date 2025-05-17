@@ -52,6 +52,10 @@ Each table includes PRIMARY KEY constraints and relationships are enforced using
 **DELETE**
 ![WhatsApp Image 2025-05-01 at 16 15 19_37a2497a](https://github.com/user-attachments/assets/316e825c-1d5d-45a0-a287-b51bdb42bf80)
 
+**PROCEDURES**
+![image](https://github.com/user-attachments/assets/700002cd-597f-428d-bfd4-6ad444d3964f)
+
+
 
 
 
