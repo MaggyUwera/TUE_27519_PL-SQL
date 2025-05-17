@@ -16,6 +16,11 @@ The database schema includes the following tables:
 
 Each table includes PRIMARY KEY constraints and relationships are enforced using FOREIGN KEY references.
 
+**DCL(Data Control Language)**
+
+**Pluggable database created**
+![WhatsApp Image 2025-05-13 at 17 05 44_1a3d56a5](https://github.com/user-attachments/assets/000f98eb-cfd0-4d3e-8418-bf64a27aef42)
+
 
 ***conceptual diagram**
 ![customer model](https://github.com/user-attachments/assets/087ac293-8a83-465a-ae36-230229a5b015)
@@ -39,7 +44,8 @@ Each table includes PRIMARY KEY constraints and relationships are enforced using
 **CREATING PACKAGE**
 ![WhatsApp Image 2025-05-12 at 21 26 35_0c5d80e3](https://github.com/user-attachments/assets/99560101-25c2-4ec4-8642-8864b7338296)
 
-
+**PROCEDURES**
+![image](https://github.com/user-attachments/assets/700002cd-597f-428d-bfd4-6ad444d3964f)
 
 **DML (Data Manupulation Language)**
 
@@ -51,9 +57,6 @@ Each table includes PRIMARY KEY constraints and relationships are enforced using
 
 **DELETE**
 ![WhatsApp Image 2025-05-01 at 16 15 19_37a2497a](https://github.com/user-attachments/assets/316e825c-1d5d-45a0-a287-b51bdb42bf80)
-
-**PROCEDURES**
-![image](https://github.com/user-attachments/assets/700002cd-597f-428d-bfd4-6ad444d3964f)
 
 
 
