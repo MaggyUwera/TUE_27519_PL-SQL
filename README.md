@@ -13,16 +13,23 @@ The database schema includes the following tables:
 - Orders
 - Payments
 - Delivery_Personnel
+  
+  **PROBLEM STATEMENT**
+Manual food ordering systems often result in:Delays and inefficiencies
 
+Miscommunication between staff and customers,
+Inaccurate or lost orders,
 Each table includes PRIMARY KEY constraints and relationships are enforced using FOREIGN KEY references.
 
 **DCL(Data Control Language)**
 
 **Pluggable database created**
+
 ![WhatsApp Image 2025-05-13 at 17 05 44_1a3d56a5](https://github.com/user-attachments/assets/000f98eb-cfd0-4d3e-8418-bf64a27aef42)
 
 
 ***conceptual diagram**
+
 ![customer model](https://github.com/user-attachments/assets/087ac293-8a83-465a-ae36-230229a5b015)
 
 
@@ -36,24 +43,30 @@ Each table includes PRIMARY KEY constraints and relationships are enforced using
 ![WhatsApp Image 2025-04-21 at 12 15 15_9b63bd99](https://github.com/user-attachments/assets/0ee8fd62-bad0-448d-b0b5-8d8f3479c654)
 
 **CREATING TRIGGERS** :
-Automatically updating stock after an order
-Logging when orders are deleted
-Sending alerts (e.g., low stock notification)
+Automatically updating stock after an order,
+Logging when orders are deleted,
+Sending alerts (e.g., low stock notification),
+
 ![WhatsApp Image 2025-05-06 at 17 33 46_08ee1d99](https://github.com/user-attachments/assets/3404c23a-8277-45fa-b5c2-f68ba5ba2696)
 
 **CREATING FUNCTIONS** :
-Calculating discounts or delivery fees
-Fetching customer loyalty points
-Returning menu item availability
+Calculating discounts or delivery fees,
+Fetching customer loyalty points,
+Returning menu item availability,
+
 ![WhatsApp Image 2025-05-06 at 17 16 40_902725b4](https://github.com/user-attachments/assets/fcf47159-e353-47b7-9873-017a9747d71c)
 
 **CREATING PACKAGE** :
+Keep related database logic (e.g., ordering, tracking, billing) organized,
+Improve performance by loading all logic at once,
+Hide internal workings and expose only what is needed,
+
 ![WhatsApp Image 2025-05-12 at 21 26 35_0c5d80e3](https://github.com/user-attachments/assets/99560101-25c2-4ec4-8642-8864b7338296)
 
 **PROCEDURES** :
-Placing orders
-Assigning deliveries
-Updating menu prices
+Placing orders,
+Assigning deliveries,
+Updating menu prices,
 ![image](https://github.com/user-attachments/assets/700002cd-597f-428d-bfd4-6ad444d3964f)
 
 **DML (Data Manupulation Language)**
