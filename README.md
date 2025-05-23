@@ -1,18 +1,40 @@
-****Online Food Ordering System****
+****ONLINE FOOD ORDERING SYSTEM****
 
-
-The Online Food Ordering System is a PL/SQL-based digital solution aimed at streamlining the process of ordering food from restaurants. It is designed to eliminate the inefficiencies and errors of traditional order management by automating key functions such as order placement, menu management, payments, and delivery tracking.
+The Online Food Ordering System is a PL/SQL-based digital solution developed to modernize and simplify how customers interact with restaurants. Instead of relying on manual ordering methods—which are slow, error-prone, and inefficient—this system automates the entire ordering process using a robust database-driven approach.
 
 
 **🗃️ Database Schema**
 The database schema includes the following tables:
 
-- Customers
-- Restaurants
-- Menu_Items
-- Orders
-- Payments
-- Delivery_Personnel
+- **Customers**:customer_id (Primary Key),name
+phone_number,
+email,
+address.
+- **Restaurants** :restaurant_id (Primary Key),
+restaurant_name,
+location,
+contact_number,
+status (e.g., Active/Inactive).
+- **Menu_Items** :item_id (Primary Key)
+restaurant_id (Foreign Key),
+item_name,
+price,
+availability (e.g., In stock, Out of stock).
+- **Orders** :order_id (Primary Key),
+customer_id (Foreign Key),
+restaurant_id (Foreign Key),
+order_date,
+order_status (e.g. Pending, Preparing, Delivered).
+- **Payments** :payment_id (Primary Key),
+order_id (Foreign Key),
+amount_paid,
+payment_method (e.g., Card, Cash, Mobile Money),
+payment_status (Paid, Failed, Pending).
+- **Delivery_Personnel** :staff_id (Primary Key),
+name,
+phone_number,
+availability_status (e.g., Available, On delivery),
+assigned_order_id (nullable Foreign Key).
   
  🎯 **PROBLEM STATEMENT**
 
