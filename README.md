@@ -2,6 +2,11 @@
 
 The Online Food Ordering System is a PL/SQL-based digital solution developed to modernize and simplify how customers interact with restaurants. Instead of relying on manual ordering methods—which are slow, error-prone, and inefficient—this system automates the entire ordering process using a robust database-driven approach.
 
+🧑‍💻 **Target Users**
+*Customers**: Individuals looking to order food conveniently from restaurants
+
+*Restaurant Businesses**: Cafés and eateries wanting to automate their order management and enhance customer satisfaction
+
 
 **🗃️ Database Schema**
 The database schema includes the following tables:
@@ -117,6 +122,17 @@ Updating menu prices,
 
 **DELETE**
 ![WhatsApp Image 2025-05-01 at 16 15 19_37a2497a](https://github.com/user-attachments/assets/316e825c-1d5d-45a0-a287-b51bdb42bf80)
+
+🧠 **My Expectations**
+Through this course, I aim to:
+
+Gain solid hands-on experience in database programming
+
+Understand the integration of procedural logic within SQL
+
+Learn how to develop reliable, optimized, and secure database operations
+
+
 
 
 
