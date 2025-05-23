@@ -14,12 +14,23 @@ The database schema includes the following tables:
 - Payments
 - Delivery_Personnel
   
-  **PROBLEM STATEMENT**
-Manual food ordering systems often result in:Delays and inefficiencies
+ 🎯 **PROBLEM STATEMENT**
 
-Miscommunication between staff and customers,
-Inaccurate or lost orders,
-Each table includes PRIMARY KEY constraints and relationships are enforced using FOREIGN KEY references.
+✅ Manual food ordering systems often result in:Delays and inefficiencies
+
+✅ Miscommunication between staff and customers,
+
+✅ Inaccurate or lost orders,
+
+
+🎯 **Project Overview**
+This repository includes practical work and learning exercises that focus on:
+
+✅ SQL: Writing queries to retrieve and manage data efficiently
+
+✅ PL/SQL: Creating stored procedures, functions, cursors, and handling exceptions
+
+✅ Advanced Database Programming: Building efficient and secure routines for real-world database applications
 
 **DCL(Data Control Language)**
 
