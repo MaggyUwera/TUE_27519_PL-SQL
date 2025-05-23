@@ -45,6 +45,7 @@ Each table includes PRIMARY KEY constraints and relationships are enforced using
 ![WhatsApp Image 2025-05-12 at 21 26 35_0c5d80e3](https://github.com/user-attachments/assets/99560101-25c2-4ec4-8642-8864b7338296)
 
 **PROCEDURES**
+A procedure in PL/SQL is a named block of code that performs a specific task
 ![image](https://github.com/user-attachments/assets/700002cd-597f-428d-bfd4-6ad444d3964f)
 
 **DML (Data Manupulation Language)**
