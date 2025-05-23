@@ -66,7 +66,7 @@ This repository includes practical work and learning exercises that focus on:
 ![WhatsApp Image 2025-05-13 at 17 05 44_1a3d56a5](https://github.com/user-attachments/assets/000f98eb-cfd0-4d3e-8418-bf64a27aef42)
 
 
-***conceptual diagram**
+**conceptual diagram**
 
 ![customer model](https://github.com/user-attachments/assets/087ac293-8a83-465a-ae36-230229a5b015)
 
