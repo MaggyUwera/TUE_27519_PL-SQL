@@ -1,4 +1,4 @@
- ## ONLINE FOOD ORDERING SYSTEM ##
+  * ## ONLINE FOOD ORDERING SYSTEM ## *
 
 The Online Food Ordering System is a PL/SQL-based digital solution developed to modernize and simplify how customers interact with restaurants. Instead of relying on manual ordering methods—which are slow, error-prone, and inefficient—this system automates the entire ordering process using a robust database-driven approach.
 
