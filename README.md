@@ -1,4 +1,4 @@
-  * ## ONLINE FOOD ORDERING SYSTEM ## *
+   ## ONLINE FOOD ORDERING SYSTEM ## 
 
 The Online Food Ordering System is a PL/SQL-based digital solution developed to modernize and simplify how customers interact with restaurants. Instead of relying on manual ordering methods—which are slow, error-prone, and inefficient—this system automates the entire ordering process using a robust database-driven approach.
 
@@ -131,6 +131,22 @@ Gain solid hands-on experience in database programming
 Understand the integration of procedural logic within SQL
 
 Learn how to develop reliable, optimized, and secure database operations
+
+🎯 **Anticipated Benefits**
+✅ Automated Ordering: Reduces human error and speeds up service
+
+✅ Real-time Tracking: Allows customers to track order status
+
+✅ Inventory Management: Helps restaurants maintain stock levels
+
+✅ Enhanced Experience: Improves customer satisfaction and restaurant performance
+
+**NAMES: UWERA Maggy**
+**ID:27519**
+
+**PL&SQL DEVELOPMENT**
+
+
 
 
 
