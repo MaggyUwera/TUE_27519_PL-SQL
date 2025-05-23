@@ -10,26 +10,31 @@ The database schema includes the following tables:
 phone_number,
 email,
 address.
+
 - **Restaurants** :restaurant_id (Primary Key),
 restaurant_name,
 location,
 contact_number,
 status (e.g., Active/Inactive).
+
 - **Menu_Items** :item_id (Primary Key)
 restaurant_id (Foreign Key),
 item_name,
 price,
 availability (e.g., In stock, Out of stock).
+
 - **Orders** :order_id (Primary Key),
 customer_id (Foreign Key),
 restaurant_id (Foreign Key),
 order_date,
 order_status (e.g. Pending, Preparing, Delivered).
+
 - **Payments** :payment_id (Primary Key),
 order_id (Foreign Key),
 amount_paid,
 payment_method (e.g., Card, Cash, Mobile Money),
 payment_status (Paid, Failed, Pending).
+
 - **Delivery_Personnel** :staff_id (Primary Key),
 name,
 phone_number,
