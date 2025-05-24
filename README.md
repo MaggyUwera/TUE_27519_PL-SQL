@@ -66,7 +66,7 @@ This repository includes practical work and learning exercises that focus on:
 
 
  ## **PHASE II: Business Process Modeling (Related to Management Information Systems - MIS)**
- ![WhatsApp Image 2025-05-25 at 00 46 40_ae41b110](https://github.com/user-attachments/assets/24dda227-da2a-44c8-9498-6beb63a1d164)
+![WhatsApp Image 2025-05-25 at 00 48 32_ec6fdf85](https://github.com/user-attachments/assets/1fc4258d-0de1-4ce0-823c-9fbf1d4cf629)
 
 ## PhaseIII: Logical Model Design
 ![ERD](https://github.com/user-attachments/assets/379f2370-7f7e-49f8-a6c2-3cf8bf9d4661)
