@@ -66,9 +66,13 @@ This repository includes practical work and learning exercises that focus on:
 
 
  ## **PHASE II: Business Process Modeling (Related to Management Information Systems - MIS)**
+ This BPMN diagram represents an online food ordering system. The customer logs in, browses the menu, selects items, and makes a payment. If successful, the order is placed. The restaurant receives the order and prepares the food. Once ready, the delivery person picks it up. The payment system processes the payment and checks if the order is delivered. Meanwhile, the administrator manages the system.
+ 
 ![WhatsApp Image 2025-05-25 at 00 48 32_ec6fdf85](https://github.com/user-attachments/assets/1fc4258d-0de1-4ce0-823c-9fbf1d4cf629)
 
 ## PhaseIII: Logical Model Design
+This diagram outlines a comprehensive design for a food delivery system, identifying key entities and their interactions. Each entity holds vital information relevant to its role in the system, with clear relationships helping to define how data interacts throughout the ordering process. This structure aids in managing and retrieving data effectively while ensuring that all necessary components of the system are accounted for.
+
 ![ERD](https://github.com/user-attachments/assets/379f2370-7f7e-49f8-a6c2-3cf8bf9d4661)
 
 
