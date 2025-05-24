@@ -98,6 +98,21 @@ This diagram outlines a comprehensive design for a food delivery system, identif
 **CREATING TABLE**
 ![WhatsApp Image 2025-04-21 at 12 15 15_9b63bd99](https://github.com/user-attachments/assets/0ee8fd62-bad0-448d-b0b5-8d8f3479c654)
 
+## PhaseV: Table Implementation and Data Insertion
+
+**DML (Data Manupulation Language)**
+
+**INSERT INTO TABLES**
+![WhatsApp Image 2025-04-22 at 22 18 02_d1b4c49a](https://github.com/user-attachments/assets/b188d9c2-402d-4121-878d-bf8c57fae948)
+
+**UPDATE INTO TABLE**
+![WhatsApp Image 2025-05-01 at 12 44 58_21f8d584](https://github.com/user-attachments/assets/24eba6c8-1aaf-4bbc-bfa6-b86ca6f6dc7b)
+
+**DELETE**
+![WhatsApp Image 2025-05-01 at 16 15 19_37a2497a](https://github.com/user-attachments/assets/316e825c-1d5d-45a0-a287-b51bdb42bf80)
+
+## PhaseVI: Database Interaction and Transactions
+
 **CREATING TRIGGERS** :
 Automatically updating stock after an order,
 Logging when orders are deleted,
@@ -125,16 +140,6 @@ Assigning deliveries,
 Updating menu prices,
 ![image](https://github.com/user-attachments/assets/700002cd-597f-428d-bfd4-6ad444d3964f)
 
-**DML (Data Manupulation Language)**
-
-**INSERT INTO TABLES**
-![WhatsApp Image 2025-04-22 at 22 18 02_d1b4c49a](https://github.com/user-attachments/assets/b188d9c2-402d-4121-878d-bf8c57fae948)
-
-**UPDATE INTO TABLE**
-![WhatsApp Image 2025-05-01 at 12 44 58_21f8d584](https://github.com/user-attachments/assets/24eba6c8-1aaf-4bbc-bfa6-b86ca6f6dc7b)
-
-**DELETE**
-![WhatsApp Image 2025-05-01 at 16 15 19_37a2497a](https://github.com/user-attachments/assets/316e825c-1d5d-45a0-a287-b51bdb42bf80)
 
 🧠 **My Expectations**
 Through this course, I aim to:
