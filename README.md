@@ -164,7 +164,8 @@ Understand the integration of procedural logic within SQL
 
 Learn how to develop reliable, optimized, and secure database operations
 
-🎯 **Anticipated Benefits**
+## 🎯 **Anticipated Benefits** ##
+
 ✅ Automated Ordering: Reduces human error and speeds up service
 
 ✅ Real-time Tracking: Allows customers to track order status
