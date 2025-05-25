@@ -140,6 +140,20 @@ Assigning deliveries,
 Updating menu prices,
 ![image](https://github.com/user-attachments/assets/700002cd-597f-428d-bfd4-6ad444d3964f)
 
+## PhaseVII: Advanced Database Programming and Auditing
+Problem Statement
+In a real-world food ordering system, data integrity, operational automation, and user accountability are essential. Frequent unauthorized changes to order or payment data during off-hours and holidays can lead to fraud or operational conflicts. To mitigate these risks, advanced PL/SQL features such as triggers, packages, and auditing mechanisms are essential.
+
+ *Why Triggers, Packages, and Auditing?*
+Triggers automate rules enforcement (e.g., time-based restrictions).
+
+Packages group reusable logic for consistency and performance.
+
+Auditing tracks who did what, when, and whether it was allowed, increasing accountability and security.
+
+![image](https://github.com/user-attachments/assets/8a7b9313-24d7-45b1-a155-6d535952e050)
+
+
 
 🧠 **My Expectations**
 Through this course, I aim to:
